@@ -1,9 +1,9 @@
     {
         "name": "Marco's App",
-        "short_name": "Curtis' App",
-        "description": "Github Page for Curtis' App",
-        "scope": "/ICS2O-UNIT-6-03-HTML/",
-        "start_url": "/ICS2O-UNIT-6-03-HTML/",
+        "short_name": "Marco's App",
+        "description": "Github Page for Marco's App",
+        "scope": "/ICS2O-Unit6-03-HTML/",
+        "start_url": "/ICS2O-Unit6-03-HTML/",
         "background_color": "#ffffff",
         "theme_color": "#ffffff",
         "display": "standalone", 
